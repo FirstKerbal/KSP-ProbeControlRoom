@@ -7,10 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProbeControlRoom", "ProbeCo
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SolutionItems", "SolutionItems", "{5634DF77-97E5-459F-B03A-6A9791A75B34}"
 	ProjectSection(SolutionItems) = preProject
-		buildRelease.bat = buildRelease.bat
 		ChangeLog.txt = ChangeLog.txt
-		deploy.bat = deploy.bat
-		jenkins.txt = jenkins.txt
 		LICENSE.txt = LICENSE.txt
 		README.md = README.md
 	EndProjectSection

@@ -1,0 +1,9 @@
+{
+  "NAME": "ProbeControlRoom",
+  "VERSION": "1.4.0",
+  "URL": "https://github.com/FirstPersonKSP/KSP-ProbeControlRoom/releases/latest/download/ProbeControlRoom.version",
+  "DOWNLOAD": "https://github.com/FirstPersonKSP/KSP-ProbeControlRoom/releases/latest",
+  "KSP_VERSION": "1.12",
+  "KSP_VERSION_MIN": "1.8",
+  "KSP_VERSION_MAX": "1.12"
+}
